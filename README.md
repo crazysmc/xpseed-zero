@@ -1,4 +1,4 @@
-# xpseed-zero
+# XpSeed Zero
 Minecraft Mod that makes all table enchantments use the `XpSeed` 0.
 This is useful to examine all possible first enchants.
 
