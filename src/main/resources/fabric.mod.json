@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "xpseed-zero",
+  "version": "${version}",
+  "name": "XpSeed Zero",
+  "description": "Make all table enchantments use the XpSeed 0. This is useful to examine all possible first enchants",
+  "authors": [
+    "crazysmc"
+  ],
+  "contact": {
+    "homepage": "https://github.com/crazysmc/xpseed-zero",
+    "sources": "https://github.com/crazysmc/xpseed-zero"
+  },
+  "license": "GPL-3.0-only",
+  "icon": "assets/xpseed-zero/icon.png",
+  "environment": "*",
+  "mixins": [
+    "xpseed-zero.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~${mcversion}",
+    "java": ">=16"
+  }
+}
