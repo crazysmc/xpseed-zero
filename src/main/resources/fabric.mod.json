@@ -11,7 +11,7 @@
     "homepage": "https://github.com/crazysmc/xpseed-zero",
     "sources": "https://github.com/crazysmc/xpseed-zero"
   },
-  "license": "GPL-3.0-only",
+  "license": "MIT",
   "icon": "assets/xpseed-zero/icon.png",
   "environment": "*",
   "mixins": [
